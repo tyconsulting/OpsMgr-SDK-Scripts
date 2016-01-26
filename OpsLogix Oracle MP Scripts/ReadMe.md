@@ -1,0 +1,1 @@
+####For more information about these PowerShell functions, please refer to Tao Yang's blog post http://blog.tyang.org/2016/01/26/automating-opslogix-oracle-mp-configuration/
