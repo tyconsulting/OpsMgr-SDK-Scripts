@@ -5,7 +5,7 @@ Created by:   	Tao Yang
 Filename:     	Copy-PerfRulesToOMS.ps1
 -------------------------------------------------------------------------
 Description:
-This script is reads configurations of all performance collection rules
+This script reads configurations of all performance collection rules
 in a particular OpsMgr management pack, and then recreate these rules
 with same configuration but stores the performance data as PerfHourly
 data in your OMS workspace.
